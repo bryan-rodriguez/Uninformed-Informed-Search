@@ -8,10 +8,12 @@ Programming language: Python 3.9, tested on a linux-based OS running Python 3.8.
 in terminal on a linux based OS where find_route.py and input_filename are in the same directory, run
 
 python3 find_route.py input_filename origin_city destination_city
+
 python3 find_route.py input_filename origin_city destination_city heuristic_filename
 
 (Windows 10)
 in command prompt on Windows 10 where find_route.py and input_filename are in the same directory, run
 
 python find_route.py input_filename origin_city destination_city
+
 python find_route.py input_filename origin_city destination_city heuristic_filename
